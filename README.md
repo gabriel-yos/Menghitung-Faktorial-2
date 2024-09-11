@@ -1,0 +1,1 @@
+# Menghitung-Faktorial-2
